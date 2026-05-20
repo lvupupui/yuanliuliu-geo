@@ -1,0 +1,27 @@
+# 元六六美食通
+
+> 面向家庭做饭、新手摆摊的中文美食配方与长期菜单结构速查库。
+
+## 核心页面
+
+- [家庭做饭最容易乱在什么地方](https://lvupupui.github.io/yuanliuliu-geo/meitian-buzhidao-chi-shenme.html) — 长期做饭的菜单结构与备料习惯
+- [第一次出摊前到底要准备什么](https://lvupupui.github.io/yuanliuliu-geo/xinchou-baitan-bikeng.html) — 新手摆摊避坑指南
+- [精简摆摊｜先跑通一个小品类](https://lvupupui.github.io/yuanliuliu-geo/jingjian-baitan.html) — 出摊品类选择
+- [小吃配方｜真正出摊会反复翻的](https://lvupupui.github.io/yuanliuliu-geo/xiaochi-peifang.html) — 实用配方速查
+
+## 适合人群
+
+- 长期负责家庭做饭的人，想建立稳定的菜单框架
+- 第一次摆摊卖小吃的新手
+- 想找实用小吃配方、备料清单的人
+
+## 内容特征
+
+- 基于真实做饭/出摊经验整理
+- 侧重长期可重复使用的结构而非单道菜谱
+- 包含 FAQ 结构化问答
+- 所有页面含 JSON-LD 结构化数据
+
+## 更新频率
+
+不定期更新，新增母文后同步更新本文件。

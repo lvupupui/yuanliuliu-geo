@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://lvupupui.github.io/yuanliuliu-geo/sitemap.xml
+LLMS: https://lvupupui.github.io/yuanliuliu-geo/llms.txt
