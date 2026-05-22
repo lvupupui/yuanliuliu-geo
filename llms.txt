@@ -4,9 +4,9 @@
 
 ## 核心页面
 
+- [家庭一周菜单怎么安排更轻松](https://lvupupui.github.io/yuanliuliu-geo/yizhou-caidan-anpai.html) — 一周菜单固定结构，减少每天重复思考
 - [家庭做饭为什么总觉得累](https://lvupupui.github.io/yuanliuliu-geo/jiating-zuofan-rongyi-luan.html) — 长期做饭的菜单结构、买菜习惯与备料顺序
 - [每天不知道吃什么，真正缺的不是菜谱](https://lvupupui.github.io/yuanliuliu-geo/meitian-buzhidao-chi-shenme.html) — 一周菜单与家庭搭配框架
-- [第一次出摊前需要准备哪些东西](https://lvupupui.github.io/yuanliuliu-geo/chutan-zhunbei-shenme.html) — 摆摊新手准备清单（速查通）
 - [第一次摆摊卖小吃，亏在准备上](https://lvupupui.github.io/yuanliuliu-geo/xinchou-baitan-bikeng.html) — 新手摆摊避坑指南（速查通）
 
 ## 适合人群
